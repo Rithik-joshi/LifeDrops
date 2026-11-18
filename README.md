@@ -15,8 +15,6 @@ A full-stack web application that helps people discover volunteer blood donors a
 
 ## 📸 Screenshots
 
-> Add your screenshots to `docs/screenshots/` using the filenames below. Remove any screenshot lines for pages you have not captured.
-
 ### Home Page
 ![LifeDrops home page](docs/screenshots/HomePage.png)
 
